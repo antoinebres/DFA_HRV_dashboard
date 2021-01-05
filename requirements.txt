@@ -1,0 +1,4 @@
+dash==1.18.1
+numpy==1.19.3
+paho-mqtt==1.5.1
+pandas==1.2.0
